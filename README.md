@@ -91,23 +91,6 @@
 **“An Investigation on Application of Evolutionary Optimisation Techniques on Different ML Models for Developing Credible Clusters”**  
 🗓 ICMEET 2025 — London, UK  
 
----
-
-## 📊 GitHub Analytics (Live)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohona-13&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohona-13&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohona-13&theme=react-dark" />
-</p>
-
----
 
 ## 🏆 Achievements & Learning
 
