@@ -115,7 +115,7 @@
 ---
 
 <p align="center">
-  🔴🔵 <i>Red & Blue themed • Research-driven • Built for real-world AI impact</i>
+  🔴🔵 <i> Research-driven • Built for real-world AI impact</i>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
